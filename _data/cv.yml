@@ -13,8 +13,8 @@ cv:
   address:
     street:
     city: Lincoln
-    region: ""
-    postalCode: ""
+    region:
+    postalCode:
     countryCode: UK
 
   sections:
@@ -27,8 +27,8 @@ cv:
         start_date: 2024
         end_date: 2027
         score: ""
-        courses: ""
-        highlights: ""
+        courses:
+        highlights:
 
     Experience:
       - company: Institute for Advanced Study, Princeton University
