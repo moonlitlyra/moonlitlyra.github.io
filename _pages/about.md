@@ -25,6 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+I am a student at The University of Lincoln with research interests in Machine Learning, AI, Computer Vision, and Agri-Tech. Currently in the third year of my undergrad studying Mathematics & Computer Science and looking to pursue a Masters at Lincoln in September 2027. My personal goals are to help advance sustainability and human wellbeing using the tools provided by the new wave of advancements in ML and robotics.
+ 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
